@@ -9,3 +9,10 @@ TMF studio este un limbaj de progrmare care va ajuta sa creati tot felul de plat
 ### Contact
 E-mail: teodormandras@gmail.com
 Telefon: 0759839808
+
+## Misiunea
+Misiunea noastra este sa ajutam toti dezvoltatorii din intreaga lume
+
+
+## Tehnologia
+Tehnologia noastra ajuta oamneii din toata lumea sa construiasca propria lor lume virtuala.
