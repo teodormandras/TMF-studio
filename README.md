@@ -1,4 +1,4 @@
-## TMF studio
+## TMF-studio
 Aceasta este o platforma care ajuta dezvoltarea.
 
 Cu un simplu cont puteti incepe dezvoltarea!!
