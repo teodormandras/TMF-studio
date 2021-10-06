@@ -10,24 +10,25 @@ TMF studio este un limbaj de progrmare care va ajuta sa creati tot felul de plat
 Exemplu de cod:
 
 ```markdown
-Syntax highlighted code block
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VS webcode demoapp</title>
+</head>
+<body>
+    <h4>Some text</h4>
+    <h5>Some other text</h5>
 
-# Header 1
-## Header 2
-### Header 3
+    <h2>Some javascript code</h2>
 
-- Bulleted
-- List
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Date and time will be displayed</button>
 
-1. Numbered
-2. List
+<p id="demo">
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-## Contact
-E-mail: teodormandras@gmail.com
-Telefon: 0759839808⁸
+</body>
+</html>
